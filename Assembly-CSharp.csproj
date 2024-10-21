@@ -65,11 +65,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\BuildingPlacer.cs" />
-    <Compile Include="Assets\Scripts\Customer.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\ResourceGenerator.cs" />
-    <Compile Include="Assets\Scripts\CustomerSpawner.cs" />
+    <Compile Include="Assets\Scripts\StudentSpawner.cs" />
+    <Compile Include="Assets\Scripts\UIManager.cs" />
     <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Student.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ReadMe.txt" />

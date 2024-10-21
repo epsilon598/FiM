@@ -5,7 +5,9 @@ public class GameManager : MonoBehaviour
 {
     public static GameManager instance; // Instancia única de GameManager
     public Text moneyText; // Texto para mostrar el dinero
-    private int money; // Variable para almacenar el dinero del jugador
+    public Text studentCountText; // Texto para mostrar la cantidad de estudiantes
+    public int budget = 5000; // Presupuesto inicial del colegio
+    public int studentCount = 0; // Número de estudiantes matriculados
 
     void Awake()
     {
@@ -23,18 +25,33 @@ public class GameManager : MonoBehaviour
 
     void Start()
     {
-        money = 1000; // Inicializa el dinero del jugador
-        UpdateMoneyUI();
+        UpdateUI();
     }
 
     public void AddMoney(int amount)
     {
-        money += amount; // Añade dinero
-        UpdateMoneyUI();
+        budget += amount; // Agrega dinero al presupuesto
+        UpdateUI();
     }
 
-    void UpdateMoneyUI()
+    public void InvestInInfrastructure(int amount)
     {
-        moneyText.text = "Money: $" + money.ToString(); // Actualiza el UI del dinero
+        if (budget >= amount)
+        {
+            budget -= amount;
+            studentCount += 5; // Incrementar estudiantes por cada inversión
+            Debug.Log("Inversión realizada. Estudiantes matriculados: " + studentCount);
+            UpdateUI();
+        }
+        else
+        {
+            Debug.LogWarning("No hay suficiente presupuesto para esta inversión.");
+        }
+    }
+
+    void UpdateUI()
+    {
+        moneyText.text = "Presupuesto: $" + budget.ToString();
+        studentCountText.text = "Estudiantes: " + studentCount.ToString();
     }
 }
