@@ -51,7 +51,20 @@ public class GameManager : MonoBehaviour
 
     void UpdateUI()
     {
-        moneyText.text = "Presupuesto: $" + budget.ToString();
+        moneyText.text =  budget.ToString();
         studentCountText.text = "Estudiantes: " + studentCount.ToString();
     }
+    public void SubtractMoney(int amount)
+    {
+    if (budget >= amount)
+    {
+        budget -= amount;
+        UpdateUI();
+        Debug.Log("Se restaron " + amount + " del presupuesto.");
+    }
+    else
+    {
+        Debug.LogWarning("No hay suficiente presupuesto para realizar esta acción.");
+    }
+}
 }
