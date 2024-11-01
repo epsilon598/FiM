@@ -1,49 +1,53 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class MenuComprarController : MonoBehaviour
 {
-    private GameManager gameManager; // Referencia al GameManager
+    public GameObject menuComprar; // Asigna el objeto MenuComprar en el Inspector
+    public GameObject placa;
+    public GameObject edificio;
+    public Button aceptarButton;   // Asigna el botón Aceptar desde el Inspector
+    public Button cancelarButton;  // Asigna el botón Cancelar desde el Inspector
+    public GameManager gameManager;
 
-    void Start()
+    private void Start()
     {
-        // Encuentra el GameManager en la escena
-        gameManager = FindObjectOfType<GameManager>();
-
         if (gameManager == null)
         {
-            Debug.LogError("GameManager no encontrado en la escena.");
+            gameManager = GameObject.Find("GameManager").GetComponent<GameManager>();
         }
 
-        // Asegurarse de que el menú esté desactivado al iniciar
-        gameObject.SetActive(false);
+        aceptarButton.onClick.AddListener(OnAceptarClick);
+        cancelarButton.onClick.AddListener(OnCancelarClick);
     }
 
-    public void MostrarMenu()
+    private void OnAceptarClick()
     {
-        gameObject.SetActive(true); // Mostrar el menú
-    }
+        Debug.Log("Botón Aceptar presionado.");
 
-    public void OcultarMenu()
-    {
-        gameObject.SetActive(false); // Ocultar el menú
-    }
-
-    public void AceptarCompra()
-    {
-        if (gameManager != null && gameManager.budget >= 2000)
+        if (gameManager.budget >= 2000)
         {
             gameManager.SubtractMoney(2000);
-            Debug.Log("Compra realizada. Presupuesto restante: " + gameManager.budget);
+            Debug.Log("2000 monedas restadas.");
+
+            // Intenta ocultar el menú y confirma en la consola
+            menuComprar.SetActive(false);
+            placa.SetActive(false);
+            edificio.SetActive(true);
+            Debug.Log("MenuComprar ocultado.");
         }
         else
         {
             Debug.Log("No tienes suficiente presupuesto.");
         }
-        OcultarMenu(); // Ocultar el menú después de la compra
     }
 
-    public void CancelarCompra()
+    private void OnCancelarClick()
     {
-        OcultarMenu(); // Ocultar el menú sin hacer cambios
+        Debug.Log("Botón Cancelar presionado.");
+        
+        // Oculta el menú sin hacer cambios
+        menuComprar.SetActive(false);
+        Debug.Log("MenuComprar ocultado por el botón Cancelar.");
     }
 }

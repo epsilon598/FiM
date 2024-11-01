@@ -51,8 +51,25 @@ public class GameManager : MonoBehaviour
 
     void UpdateUI()
     {
-        moneyText.text =  budget.ToString();
+    // Verifica que `moneyText` no es nulo antes de intentar acceder a él
+    if (moneyText != null)
+    {
+        moneyText.text = budget.ToString();
+    }
+    else
+    {
+        Debug.LogError("El campo moneyText no está asignado en el Inspector.");
+    }
+
+    // Verifica que `studentCountText` no es nulo antes de intentar acceder a él
+    if (studentCountText != null)
+    {
         studentCountText.text = "Estudiantes: " + studentCount.ToString();
+    }
+    else
+    {
+        Debug.LogError("El campo studentCountText no está asignado en el Inspector.");
+    }
     }
     public void SubtractMoney(int amount)
     {

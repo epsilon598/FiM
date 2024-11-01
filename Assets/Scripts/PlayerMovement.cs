@@ -3,11 +3,12 @@ using UnityEngine.AI;
 
 public class PlayerMovement : MonoBehaviour
 {
-    private NavMeshAgent player;  // Referencia al NavMeshAgent del jugador
-    public Camera mainCamera;     // Referencia a la cámara principal
-    public float gravity = 9.81f; // Fuerza de gravedad
-    private Vector3 velocity;     // Velocidad actual de caída
-    public LayerMask groundLayer; // Layer que identifica el suelo
+    private NavMeshAgent player;      // Referencia al NavMeshAgent del jugador
+    public Camera mainCamera;         // Referencia a la cámara principal
+    public float gravity = 9.81f;     // Fuerza de gravedad
+    private Vector3 velocity;         // Velocidad actual de caída
+    public LayerMask groundLayer;     // Layer que identifica el suelo
+    public GameObject menuComprar;    // Referencia al menú MenuComprar
 
     void Start()
     {
@@ -35,6 +36,9 @@ public class PlayerMovement : MonoBehaviour
     // Manejar el movimiento hacia el punto clickeado
     void HandleMovement()
     {
+        // Si el menú está activo, se impide el movimiento del jugador
+        if (menuComprar != null && menuComprar.activeSelf) return;
+
         if (Input.GetMouseButtonDown(0))
         {
             Ray ray = mainCamera.ScreenPointToRay(Input.mousePosition);
