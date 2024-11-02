@@ -9,11 +9,18 @@ public class PlayerMovement : MonoBehaviour
     private Vector3 velocity;         // Velocidad actual de caída
     public LayerMask groundLayer;     // Layer que identifica el suelo
     public GameObject menuComprar;    // Referencia al menú MenuComprar
+    public Animator animator;
+    public bool caminar;
+    private Vector3 posicionActual;
+    public Transform avatar;
+
 
     void Start()
     {
         // Obtiene el componente NavMeshAgent automáticamente al iniciar el juego
         player = GetComponent<NavMeshAgent>();
+
+        avatar = transform.GetChild(0);
 
         if (mainCamera == null)
         {
@@ -31,6 +38,7 @@ public class PlayerMovement : MonoBehaviour
     {
         HandleMovement();
         ApplyGravity();
+        animation();
     }
 
     // Manejar el movimiento hacia el punto clickeado
@@ -46,6 +54,7 @@ public class PlayerMovement : MonoBehaviour
 
             if (Physics.Raycast(ray, out hit))
             {
+
                 // Mueve el jugador hacia la posición donde se hizo clic
                 if (player.isOnNavMesh)
                 {
@@ -56,6 +65,10 @@ public class PlayerMovement : MonoBehaviour
                     Debug.LogError("El jugador no está en el NavMesh.");
                 }
             }
+
+            //Quaternion rotation = Quaternion.LookRotation(hit.point);
+            //rotation.eulerAngles = new Vector3(0,rotation.eulerAngles.y,0);
+            //avatar.rotation = rotation;
         }
     }
 
@@ -81,4 +94,18 @@ public class PlayerMovement : MonoBehaviour
             velocity.y = 0;
         }
     }
+    void animation()
+    {
+
+        
+        //registro de movimiento
+        if(transform.position != posicionActual){
+            posicionActual=transform.position;
+            caminar = true;
+        }
+        else{
+             caminar = false;
+        }
+        animator.SetBool("caminar",caminar);     
+    }    
 }
