@@ -1,6 +1,7 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,{ "pid":12345, "tid":0, "ts":1731294762319005, "dur":78, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1731294762319188, "dur":345714, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1731294762664932, "dur":251143, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
@@ -2297,6 +2298,8 @@
 =======
 =======
 >>>>>>> parent of 7b4652d (colegio nuevo)
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
 ,{ "pid":12345, "tid":0, "ts":1731225795378325, "dur":35887, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1731225795414236, "dur":16001, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1731225795430338, "dur":503, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
@@ -3972,6 +3975,9 @@
 ,{ "pid":12345, "tid":12, "ts":1731225795537839, "dur":6637, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1731225795551614, "dur":6101, "ph":"X", "name": "ProfilerWriteOutput" }
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 >>>>>>> parent of 7b4652d (colegio nuevo)
