@@ -123,6 +123,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 23800000, guid: a9ec7a8f1848f9b4ebd3e71cd4dfd786, type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &7318717
 GameObject:
   m_ObjectHideFlags: 0
@@ -178,6 +179,10 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &30651071
 PrefabInstance:
+=======
+--- !u!1 &13581058
+GameObject:
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 --- !u!1 &13581058
 GameObject:
@@ -262,6 +267,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &49362003
 GameObject:
   m_ObjectHideFlags: 0
@@ -315,6 +321,10 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 13581058}
+  m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
   m_GameObject: {fileID: 13581058}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
@@ -403,7 +413,11 @@ MeshFilter:
   m_GameObject: {fileID: 75197418}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &82578233
+=======
+--- !u!1 &150893101
+>>>>>>> parent of 7b4652d (colegio nuevo)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -411,15 +425,24 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 82578235}
   - component: {fileID: 82578234}
   m_Layer: 0
   m_Name: Pared (21)
+=======
+  - component: {fileID: 150893102}
+  - component: {fileID: 150893104}
+  - component: {fileID: 150893103}
+  m_Layer: 0
+  m_Name: 10246_School_Desk_v1_SG (3)
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!65 &82578234
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -442,11 +465,15 @@ BoxCollider:
   m_Size: {x: 1, y: 13.16, z: 10}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &82578235
+=======
+--- !u!4 &150893102
+>>>>>>> parent of 7b4652d (colegio nuevo)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 82578233}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
@@ -666,6 +693,15 @@ Transform:
   m_PrefabInstance: {fileID: 1024564240}
 =======
   m_Children: []
+=======
+  m_GameObject: {fileID: 150893101}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -100, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_Father: {fileID: 1068897062}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &150893103
@@ -673,6 +709,9 @@ MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 150893101}
@@ -803,7 +842,11 @@ MeshFilter:
   m_GameObject: {fileID: 173002983}
   m_Mesh: {fileID: -5475470049015732065, guid: 0f4d1a07970671c4690ec84c28f9e265, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &185522520
+=======
+--- !u!1 &206633317
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 --- !u!1 &206633317
 >>>>>>> parent of 7b4652d (colegio nuevo)
@@ -815,22 +858,29 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 185522522}
   - component: {fileID: 185522521}
   m_Layer: 0
   m_Name: Pared (9)
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   - component: {fileID: 206633318}
   - component: {fileID: 206633320}
   - component: {fileID: 206633319}
   m_Layer: 0
   m_Name: 10246_School_Desk_v1_SG (1)
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!65 &185522521
 BoxCollider:
@@ -857,11 +907,15 @@ BoxCollider:
 =======
 --- !u!4 &206633318
 >>>>>>> parent of 7b4652d (colegio nuevo)
+=======
+--- !u!4 &206633318
+>>>>>>> parent of 7b4652d (colegio nuevo)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 185522520}
   serializedVersion: 2
@@ -873,6 +927,8 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_GameObject: {fileID: 206633317}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
@@ -932,6 +988,9 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 206633317}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
 --- !u!95 &228535672 stripped
 Animator:
@@ -945,15 +1004,23 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &255128864
 =======
 --- !u!1001 &250252396
+=======
+--- !u!1001 &240683629
+>>>>>>> parent of 7b4652d (colegio nuevo)
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
+<<<<<<< HEAD
     m_TransformParent: {fileID: 1967309142}
+=======
+    m_TransformParent: {fileID: 1444655553}
+>>>>>>> parent of 7b4652d (colegio nuevo)
     m_Modifications:
     - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
       propertyPath: m_LocalScale.x
@@ -1024,16 +1091,226 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+<<<<<<< HEAD
 --- !u!4 &250252397 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
   m_PrefabInstance: {fileID: 250252396}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &281873113 stripped
+=======
+--- !u!4 &240683630 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+  m_PrefabInstance: {fileID: 240683629}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &244431502
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1118735382}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.0012
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.08013067
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.037189465
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.2237043
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.000000029802322
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.000000029802322
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_Name
+      value: 10246_School_Desk_v1_L3 (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2425450797940142141, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 13cfe724e4d51c44aa2dc7172d4ef6e4, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 206633318}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1183314421}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1227357391}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2120865684}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1979186525}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1221401119}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 369479de975e528468d8dc8198e51008, type: 3}
+--- !u!4 &244431503 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+  m_PrefabInstance: {fileID: 244431502}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &467015335
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1459771032}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 250
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -20
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 112
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 201.7
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 502953861b4f2474795ba4bbbce24160, type: 2}
+    - target: {fileID: 919132149155446097, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+      propertyPath: m_Name
+      value: White_board
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+--- !u!4 &467015336 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+  m_PrefabInstance: {fileID: 467015335}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &474936669
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 474936670}
+  - component: {fileID: 474936672}
+  - component: {fileID: 474936671}
+  m_Layer: 0
+  m_Name: 10246_School_Desk_v1_SG (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &474936670
+>>>>>>> parent of 7b4652d (colegio nuevo)
 Transform:
   m_CorrespondingSourceObject: {fileID: 6585240351532839582, guid: 73aa3a0ed2cd12544a1757d885e2192e, type: 3}
   m_PrefabInstance: {fileID: 705952354}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 --- !u!4 &327452029 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -2744167806330009652, guid: 73aa3a0ed2cd12544a1757d885e2192e, type: 3}
@@ -1804,6 +2081,23 @@ MeshRenderer:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_GameObject: {fileID: 474936669}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -100, y: -100, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1444655553}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &474936671
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_GameObject: {fileID: 474936669}
   m_Enabled: 1
   m_CastShadows: 1
@@ -2066,6 +2360,7 @@ MeshFilter:
   m_GameObject: {fileID: 524514921}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &531069556
 GameObject:
   m_ObjectHideFlags: 0
@@ -2202,6 +2497,8 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 533330503}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 >>>>>>> parent of 7b4652d (colegio nuevo)
 --- !u!1 &538945242
@@ -2458,6 +2755,7 @@ Canvas:
   m_SortingOrder: 0
   m_TargetDisplay: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &663548034
 GameObject:
   m_ObjectHideFlags: 0
@@ -2664,6 +2962,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> parent of 7b4652d (colegio nuevo)
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -2835,8 +3135,18 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_SourcePrefab: {fileID: 100100000, guid: 73aa3a0ed2cd12544a1757d885e2192e, type: 3}
 --- !u!1 &713429705
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+--- !u!4 &710128974 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+  m_PrefabInstance: {fileID: 710128973}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &793836813
+>>>>>>> parent of 7b4652d (colegio nuevo)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2844,15 +3154,24 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 713429707}
   - component: {fileID: 713429706}
   m_Layer: 0
   m_Name: Pared (36)
+=======
+  - component: {fileID: 793836814}
+  - component: {fileID: 793836816}
+  - component: {fileID: 793836815}
+  m_Layer: 0
+  m_Name: 10246_School_Desk_v1_SG (3)
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!65 &713429706
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -2875,11 +3194,15 @@ BoxCollider:
   m_Size: {x: 1, y: 13.16, z: 45}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &713429707
+=======
+--- !u!4 &793836814
+>>>>>>> parent of 7b4652d (colegio nuevo)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 713429705}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -3068,12 +3391,28 @@ Transform:
   m_Father: {fileID: 491216851}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &747318909
+=======
+  m_GameObject: {fileID: 793836813}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -100, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1778102183}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &793836815
+>>>>>>> parent of 7b4652d (colegio nuevo)
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 747318907}
+=======
+  m_GameObject: {fileID: 793836813}
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -3109,12 +3448,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 --- !u!33 &747318910
+=======
+--- !u!33 &793836816
+>>>>>>> parent of 7b4652d (colegio nuevo)
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 747318907}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
 --- !u!1 &751923349
@@ -3617,6 +3961,8 @@ MeshFilter:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_GameObject: {fileID: 793836813}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
 --- !u!1 &830310047
@@ -3823,6 +4169,7 @@ GameObject:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &874645889
 GameObject:
   m_ObjectHideFlags: 0
@@ -3836,6 +4183,8 @@ GameObject:
   m_Layer: 0
   m_Name: Pared (26)
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   serializedVersion: 6
   m_Component:
   - component: {fileID: 871594003}
@@ -3843,12 +4192,16 @@ GameObject:
   - component: {fileID: 871594004}
   m_Layer: 0
   m_Name: 10246_School_Desk_v1_SG (5)
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!65 &874645890
 BoxCollider:
@@ -3875,11 +4228,15 @@ BoxCollider:
 =======
 --- !u!4 &871594003
 >>>>>>> parent of 7b4652d (colegio nuevo)
+=======
+--- !u!4 &871594003
+>>>>>>> parent of 7b4652d (colegio nuevo)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 874645889}
   serializedVersion: 2
@@ -3892,6 +4249,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &881465518
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_GameObject: {fileID: 871594002}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
@@ -3952,6 +4311,9 @@ MeshFilter:
   m_GameObject: {fileID: 871594002}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
 --- !u!1 &946025688
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
 GameObject:
   m_ObjectHideFlags: 0
@@ -3961,22 +4323,29 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 881465520}
   - component: {fileID: 881465519}
   m_Layer: 0
   m_Name: Pared (34)
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   - component: {fileID: 946025689}
   - component: {fileID: 946025691}
   - component: {fileID: 946025690}
   m_Layer: 0
   m_Name: 10246_School_Desk_v1_SG (4)
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!65 &881465519
 BoxCollider:
@@ -4003,11 +4372,15 @@ BoxCollider:
 =======
 --- !u!4 &946025689
 >>>>>>> parent of 7b4652d (colegio nuevo)
+=======
+--- !u!4 &946025689
+>>>>>>> parent of 7b4652d (colegio nuevo)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 881465518}
   serializedVersion: 2
@@ -4021,6 +4394,8 @@ Transform:
 --- !u!1 &923828963
 GameObject:
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_GameObject: {fileID: 946025688}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
@@ -4032,11 +4407,15 @@ GameObject:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &946025690
 MeshRenderer:
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   serializedVersion: 6
   m_Component:
@@ -4073,6 +4452,8 @@ BoxCollider:
 --- !u!4 &923828965
 Transform:
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_GameObject: {fileID: 946025688}
   m_Enabled: 1
   m_CastShadows: 1
@@ -4111,11 +4492,15 @@ Transform:
   m_AdditionalVertexStreams: {fileID: 0}
 --- !u!33 &946025691
 MeshFilter:
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 923828963}
   serializedVersion: 2
@@ -4126,6 +4511,10 @@ MeshFilter:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+=======
+  m_GameObject: {fileID: 946025688}
+  m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
   m_GameObject: {fileID: 946025688}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
@@ -4651,6 +5040,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &998083535
 =======
 --- !u!1 &999500618
@@ -4863,6 +5253,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> parent of 7b4652d (colegio nuevo)
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
 --- !u!1 &1018524211
 GameObject:
   m_ObjectHideFlags: 0
@@ -5005,6 +5397,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
+<<<<<<< HEAD
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
       propertyPath: m_ConstrainProportionsScale
@@ -5356,6 +5749,93 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 451630a5b8536174abba0182845ba431, type: 3}
       propertyPath: m_Name
+=======
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_Name
+      value: 10246_School_Desk_v1_L3 (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2425450797940142141, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 13cfe724e4d51c44aa2dc7172d4ef6e4, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 13581059}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1807798075}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 150893102}
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 710128974}
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 369479de975e528468d8dc8198e51008, type: 3}
+--- !u!4 &1068897062 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 369479de975e528468d8dc8198e51008, type: 3}
+  m_PrefabInstance: {fileID: 1068897061}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1118735380
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 72.3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -40.1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 451630a5b8536174abba0182845ba431, type: 3}
+      propertyPath: m_Name
+>>>>>>> parent of 7b4652d (colegio nuevo)
       value: COLEGIO_LOW
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5389,6 +5869,7 @@ PrefabInstance:
       insertIndex: -1
       addedObject: {fileID: 244431503}
     m_AddedComponents: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_SourcePrefab: {fileID: 100100000, guid: 710c2af91687b70418b183b7e0e625a9, type: 3}
 --- !u!1 &1129441466
@@ -5571,6 +6052,8 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_SourcePrefab: {fileID: 100100000, guid: 451630a5b8536174abba0182845ba431, type: 3}
 --- !u!4 &1118735381 stripped
 Transform:
@@ -5617,6 +6100,9 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -1900978342067297754, guid: 451630a5b8536174abba0182845ba431, type: 3}
   m_PrefabInstance: {fileID: 1118735380}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
 --- !u!1 &1174598896
 GameObject:
@@ -5753,7 +6239,11 @@ CanvasRenderer:
   m_GameObject: {fileID: 1174598896}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1193286324
+=======
+--- !u!1 &1183314420
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 --- !u!1 &1183314420
 >>>>>>> parent of 7b4652d (colegio nuevo)
@@ -5765,22 +6255,29 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 1193286326}
   - component: {fileID: 1193286325}
   m_Layer: 0
   m_Name: Pared (41)
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   - component: {fileID: 1183314421}
   - component: {fileID: 1183314423}
   - component: {fileID: 1183314422}
   m_Layer: 0
   m_Name: 10246_School_Desk_v1_SG (2)
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!65 &1193286325
 BoxCollider:
@@ -5807,11 +6304,15 @@ BoxCollider:
 =======
 --- !u!4 &1183314421
 >>>>>>> parent of 7b4652d (colegio nuevo)
+=======
+--- !u!4 &1183314421
+>>>>>>> parent of 7b4652d (colegio nuevo)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1193286324}
   serializedVersion: 2
@@ -5824,6 +6325,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1001 &1217496658
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_GameObject: {fileID: 1183314420}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
@@ -5884,6 +6387,9 @@ MeshFilter:
   m_GameObject: {fileID: 1183314420}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
 --- !u!1001 &1221401118
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5961,6 +6467,7 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_SourcePrefab: {fileID: 100100000, guid: 710c2af91687b70418b183b7e0e625a9, type: 3}
 --- !u!1 &1225892400
 GameObject:
@@ -6024,6 +6531,14 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
   m_PrefabInstance: {fileID: 1221401118}
   m_PrefabAsset: {fileID: 0}
+=======
+  m_SourcePrefab: {fileID: 100100000, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+--- !u!4 &1221401119 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 8d38d98b1cfc5804da790d8b358c7f24, type: 3}
+  m_PrefabInstance: {fileID: 1221401118}
+  m_PrefabAsset: {fileID: 0}
+>>>>>>> parent of 7b4652d (colegio nuevo)
 --- !u!1 &1227357390
 GameObject:
   m_ObjectHideFlags: 0
@@ -6814,6 +7329,7 @@ MeshFilter:
   m_GameObject: {fileID: 1292217645}
   m_Mesh: {fileID: -5475470049015732065, guid: 0f4d1a07970671c4690ec84c28f9e265, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1293686435
 GameObject:
   m_ObjectHideFlags: 0
@@ -7038,6 +7554,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 710c2af91687b70418b183b7e0e625a9, type: 3}
   m_PrefabInstance: {fileID: 1217496658}
   m_PrefabAsset: {fileID: 0}
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 >>>>>>> parent of 7b4652d (colegio nuevo)
 --- !u!1 &1321883450
@@ -7607,6 +8125,7 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f750636c06a7134aa28014d8d710287, type: 3}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1372368487 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 74c3e45a5bc93ef4cb99d8c347c9fa38, type: 3}
@@ -7755,6 +8274,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> parent of 7b4652d (colegio nuevo)
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
 --- !u!1001 &1414629719
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7841,8 +8362,12 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1411932394
+=======
+--- !u!1 &1436672251
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 --- !u!1 &1436672251
 >>>>>>> parent of 7b4652d (colegio nuevo)
@@ -7854,17 +8379,23 @@ GameObject:
   serializedVersion: 6
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 1411932395}
   - component: {fileID: 1411932397}
   - component: {fileID: 1411932396}
   m_Layer: 0
   m_Name: Bench (2)
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   - component: {fileID: 1436672252}
   - component: {fileID: 1436672254}
   - component: {fileID: 1436672253}
   m_Layer: 0
   m_Name: 10246_School_Desk_v1_SG (4)
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7872,7 +8403,11 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &1411932395
+=======
+--- !u!4 &1436672252
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 --- !u!4 &1436672252
 >>>>>>> parent of 7b4652d (colegio nuevo)
@@ -7881,6 +8416,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1411932394}
   serializedVersion: 2
@@ -7893,6 +8429,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1411932396
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_GameObject: {fileID: 1436672251}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
@@ -7903,12 +8441,16 @@ Transform:
   m_Father: {fileID: 1459771032}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &1436672253
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1411932394}
   m_Enabled: 1
@@ -7999,6 +8541,9 @@ MeshRenderer:
 =======
   m_GameObject: {fileID: 1436672251}
 >>>>>>> parent of 7b4652d (colegio nuevo)
+=======
+  m_GameObject: {fileID: 1436672251}
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -8035,7 +8580,11 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!33 &1429465767
+=======
+--- !u!33 &1436672254
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 --- !u!33 &1436672254
 >>>>>>> parent of 7b4652d (colegio nuevo)
@@ -8045,9 +8594,14 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1429465764}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
 >>>>>>> 36311df495f36a8769d4272abd26b29e56e7602c
+=======
+  m_GameObject: {fileID: 1436672251}
+  m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
   m_GameObject: {fileID: 1436672251}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
@@ -8691,6 +9245,7 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!1 &1507044325
 GameObject:
@@ -8868,6 +9423,10 @@ PrefabInstance:
 --- !u!1 &1549138035
 GameObject:
 >>>>>>> parent of 7b4652d (colegio nuevo)
+=======
+--- !u!1 &1549138035
+GameObject:
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -8902,6 +9461,7 @@ Transform:
 --- !u!23 &1549138037
 MeshRenderer:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   serializedVersion: 2
   m_Modification:
@@ -9023,10 +9583,15 @@ MeshRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1533764000}
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1549138035}
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_Enabled: 1
   m_CastShadows: 1
@@ -9042,7 +9607,11 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 2100000, guid: 7e8d0c2d09edbba4d93f6966451b4a3b, type: 2}
+=======
+  - {fileID: 2100000, guid: 13cfe724e4d51c44aa2dc7172d4ef6e4, type: 2}
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
   - {fileID: 2100000, guid: 13cfe724e4d51c44aa2dc7172d4ef6e4, type: 2}
 >>>>>>> parent of 7b4652d (colegio nuevo)
@@ -9068,7 +9637,11 @@ MeshRenderer:
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!33 &1533764003
+=======
+--- !u!33 &1549138038
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 --- !u!33 &1549138038
 >>>>>>> parent of 7b4652d (colegio nuevo)
@@ -9077,6 +9650,7 @@ MeshFilter:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1533764000}
   m_Mesh: {fileID: -1926403951900781465, guid: fc4d9645af36ba445bc84a0d9579af92, type: 3}
@@ -9136,6 +9710,10 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
+=======
+  m_GameObject: {fileID: 1549138035}
+  m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
   m_GameObject: {fileID: 1549138035}
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
@@ -9589,7 +10167,11 @@ CanvasRenderer:
   m_GameObject: {fileID: 1729787030}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1800720746
+=======
+--- !u!1 &1760741083
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 --- !u!1 &1760741083
 >>>>>>> parent of 7b4652d (colegio nuevo)
@@ -9597,6 +10179,7 @@ GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
@@ -9650,6 +10233,8 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 710c2af91687b70418b183b7e0e625a9, type: 3}
   m_PrefabInstance: {fileID: 1899290287}
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_PrefabAsset: {fileID: 0}
@@ -10128,6 +10713,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 1868064657}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1889454180
 GameObject:
   m_ObjectHideFlags: 0
@@ -10255,6 +10841,9 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 710c2af91687b70418b183b7e0e625a9, type: 3}
 --- !u!1 &1919766743
+=======
+--- !u!1 &1959669008
+>>>>>>> parent of 7b4652d (colegio nuevo)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -10262,15 +10851,24 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1919766745}
   - component: {fileID: 1919766744}
   m_Layer: 0
   m_Name: Pared (32)
+=======
+  - component: {fileID: 1959669009}
+  - component: {fileID: 1959669011}
+  - component: {fileID: 1959669010}
+  m_Layer: 0
+  m_Name: 10246_School_Desk_v1_SG (2)
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 --- !u!65 &1919766744
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -10293,11 +10891,15 @@ BoxCollider:
   m_Size: {x: 1, y: 13.16, z: 16.42}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &1919766745
+=======
+--- !u!4 &1959669009
+>>>>>>> parent of 7b4652d (colegio nuevo)
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1919766743}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -10343,6 +10945,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1778102183}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+  m_GameObject: {fileID: 1959669008}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -100, y: -100, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1778102183}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> parent of 7b4652d (colegio nuevo)
 --- !u!23 &1959669010
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10392,6 +11005,92 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1959669008}
+<<<<<<< HEAD
+=======
+  m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
+--- !u!1 &1979186524
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1979186525}
+  - component: {fileID: 1979186527}
+  - component: {fileID: 1979186526}
+  m_Layer: 0
+  m_Name: 10246_School_Desk_v1_SG (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1979186525
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979186524}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 100, y: -100, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 244431503}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &1979186526
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979186524}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 13cfe724e4d51c44aa2dc7172d4ef6e4, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1979186527
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1979186524}
+>>>>>>> parent of 7b4652d (colegio nuevo)
   m_Mesh: {fileID: 4947335140350658323, guid: 369479de975e528468d8dc8198e51008, type: 3}
 --- !u!1 &1979186524
 GameObject:
@@ -11180,6 +11879,7 @@ NavMeshAgent:
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!136 &2118480156
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -11208,11 +11908,16 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 710c2af91687b70418b183b7e0e625a9, type: 3}
   m_PrefabInstance: {fileID: 2097988000}
 =======
+=======
+>>>>>>> parent of 7b4652d (colegio nuevo)
 --- !u!1 &2120865683
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
+<<<<<<< HEAD
+>>>>>>> parent of 7b4652d (colegio nuevo)
+=======
 >>>>>>> parent of 7b4652d (colegio nuevo)
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
@@ -11306,6 +12011,7 @@ SceneRoots:
   - {fileID: 997737801}
   - {fileID: 1666245372}
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 602150501}
   - {fileID: 705952354}
 <<<<<<< HEAD
@@ -11359,6 +12065,9 @@ SceneRoots:
 >>>>>>> 36311df495f36a8769d4272abd26b29e56e7602c
 =======
 >>>>>>> parent of 36311df (colegio final)
+=======
+  - {fileID: 1118735380}
+>>>>>>> parent of 7b4652d (colegio nuevo)
 =======
   - {fileID: 1118735380}
 >>>>>>> parent of 7b4652d (colegio nuevo)
