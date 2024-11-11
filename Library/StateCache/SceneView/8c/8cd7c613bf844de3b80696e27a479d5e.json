@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":301.8899230957031,"y":7.350290298461914,"z":199.41575622558595},"rotation":{"x":0.05577348917722702,"y":0.8697975277900696,"z":-0.47970372438430788,"w":0.10118380934000015},"size":36.233280181884769,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":71.4842300415039,"y":6.879754066467285,"z":89.2218246459961},"rotation":{"x":-0.10768099129199982,"y":0.8923110365867615,"z":-0.30713316798210146,"w":-0.3128366470336914},"size":0.025334080681204797,"orthographic":false}
+>>>>>>> parent of 7b4652d (colegio nuevo)
